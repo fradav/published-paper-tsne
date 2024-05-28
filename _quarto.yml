@@ -1,6 +1,7 @@
 project:
   render:
     - published-paper-tsne.qmd
+    - published-paper-tsne-R.qmd
 
 format: 
   computo-html: default
