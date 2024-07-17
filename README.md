@@ -1,4 +1,4 @@
-# Visualizing Data using t-SNE: a mock Computo contribution
+# Visualizing Data using t-SNE: a mock Computo contribution (R version)
 
 by 
 
